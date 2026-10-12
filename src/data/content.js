@@ -33,7 +33,7 @@ export const hero = {
   descriptor: 'FILMMAKING · STORYTELLING · VISUAL PRODUCTION',
   intro:
     'We turn ideas into powerful visual stories, crafted with intention and finished with cinematic precision.',
-  image: img('1500051638674-ff996a0ec29e', 1920),
+  image: img('1625690303837-654c9666d2d0', 1920),
   statements: [
     { title: 'CINEMATIC VISUALS', sub: 'BUILT WITH PURPOSE' },
     { title: 'STORIES', sub: 'THAT MOVE PEOPLE' },
