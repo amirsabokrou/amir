@@ -33,7 +33,7 @@ export const hero = {
   descriptor: 'FILMMAKING · STORYTELLING · VISUAL PRODUCTION',
   intro:
     'We turn ideas into powerful visual stories, crafted with intention and finished with cinematic precision.',
-  image: img('1625690303837-654c9666d2d0', 1920),
+  image: 'https://media.base44.com/images/public/6acc2a6c36ab425c69707c8f/1ba5e6fc9_photo_2026-10-12_04-47-59.jpg',
   statements: [
     { title: 'CINEMATIC VISUALS', sub: 'BUILT WITH PURPOSE' },
     { title: 'STORIES', sub: 'THAT MOVE PEOPLE' },
@@ -50,7 +50,7 @@ export const about = {
     'From concept development to the final edit, we bring ideas to life through thoughtful direction, precise cinematography, and a commitment to visual quality.',
     'Every project is an opportunity to create something that feels different, looks exceptional, and stays with its audience.',
   ],
-  image: img('1500648767791-00dcc994a43e', 1200),
+  image: 'https://media.base44.com/images/public/6acc2a6c36ab425c69707c8f/0c7a451f2_CinematicCreativeEditingStudio1.png',
   bgImage: img('1506905925346-21bda4d32df4', 800),
   highlights: [
     { title: 'CREATIVE DIRECTION', desc: 'A clear vision behind every frame.' },
